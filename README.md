@@ -12,7 +12,7 @@ A simple To-Do List Management App that helps you get things done. Built with Ko
 ## ✨ Screenshots
 <div style="display:flex;">
 <img src="<div style="display:flex;">
-<img src="Screenshot image 1.jpg" width="200">
+<img src=""C:\Users\Reddy's\OneDrive\Desktop\ad\Screenshot image 1.jpg"" width="200">
 <img src="Screenshot image 2.jpg" width="200">
 <img src="Screenshot image 3.jpg" width="200">
 </div>

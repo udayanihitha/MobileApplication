@@ -3,10 +3,10 @@
     <h1 align="center">ToDo List App</h1>
 </p>
 
-## 🌟 About
+##  About
 A simple To-Do List Management App that helps you get things done. Built with Kotlin, it helps the user to add their task. User can mark an added task as completed . They can delete the completed task or all added task as they wish. It saves the data in local database using Room.
 
-## ✨ Screenshots
+##  Screenshots
 
 ![Screenshot image 1](https://github.com/udayanihitha/MobileApplication/assets/83023161/6d08680c-12a8-4d17-9660-391af00125de)
 ![Screenshot image 2](https://github.com/udayanihitha/MobileApplication/assets/83023161/903b7d2c-a03b-4f7d-92c1-dd229f2f6aab)
@@ -28,3 +28,13 @@ A simple To-Do List Management App that helps you get things done. Built with Ko
 - [Material Components for Android](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components for Android.
 - [ViewBinding](https://developer.android.com/topic/libraries/view-binding) - Generates a binding class for each XML layout file present in that module and allows you to more easily write code that interacts with views.
 
+##  Instructions to Run Application
+
+Follow this steps to get Working Project!
+```
+1. Clone this repository or download file
+2. Extract zip if downloaded code
+3. Open project in Android Studio
+4. Wait while Android Studio Download gradle or required files
+5. Hit Run Button !
+```

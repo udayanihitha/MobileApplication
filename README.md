@@ -1,8 +1,6 @@
 # MobileApplication
 <p align="center">
-    <a>
-    <img src="ScreenShots/ToDoLogo.JPG" width="130" height="130"/>
-    </a>
+     #
     <h1 align="center">ToDo List App</h1>
 </p>
 

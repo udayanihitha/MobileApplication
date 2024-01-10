@@ -12,10 +12,9 @@ A simple To-Do List Management App that helps you get things done. Built with Ko
 ## ✨ Screenshots
 <div style="display:flex;">
 <img src="<div style="display:flex;">
-<img src="ScreenShots/img01.jpeg" width="200">
-<img src="ScreenShots/img03.jpeg" width="200">
-<img src="ScreenShots/img05.jpeg" width="200">
-<img src="ScreenShots/img10.jpeg" width="200">
+<img src="Screenshot image 1.jpg" width="200">
+<img src="Screenshot image 2.jpg" width="200">
+<img src="Screenshot image 3.jpg" width="200">
 </div>
 <br>
 <div style="display:flex;">

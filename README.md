@@ -31,10 +31,11 @@ A simple To-Do List Management App that helps you get things done. Built with Ko
 ##  Instructions to Run Application
 
 Follow this steps to get Working Project!
-```
+
 1. Clone this repository or download file
 2. Extract zip if downloaded code
 3. Open project in Android Studio
 4. Wait while Android Studio Download gradle or required files
 5. Hit Run Button !
-```
+
+

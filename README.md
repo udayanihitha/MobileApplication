@@ -7,25 +7,14 @@
 A simple To-Do List Management App that helps you get things done. Built with Kotlin, it helps the user to add their task. User can mark an added task as completed . They can delete the completed task or all added task as they wish. It saves the data in local database using Room.
 
 ## ✨ Screenshots
+
 ![Screenshot image 1](https://github.com/udayanihitha/MobileApplication/assets/83023161/6d08680c-12a8-4d17-9660-391af00125de)
 ![Screenshot image 2](https://github.com/udayanihitha/MobileApplication/assets/83023161/903b7d2c-a03b-4f7d-92c1-dd229f2f6aab)
 ![Screenshot image 3](https://github.com/udayanihitha/MobileApplication/assets/83023161/ca48546c-f3f7-4d9f-b0d2-c5de9b9bdb1b)
 ![Screenshot image 4](https://github.com/udayanihitha/MobileApplication/assets/83023161/b79ff8a8-48c7-4733-99b5-b57d31808dfa)
 ![Screenshot image 5](https://github.com/udayanihitha/MobileApplication/assets/83023161/d01124ab-1747-4832-ab0c-fc64d24d084b)
 ![Screenshot image 6](https://github.com/udayanihitha/MobileApplication/assets/83023161/435ad9d4-02f7-4009-b052-b48bc8ba83a7)
-<div style="display:flex;">
-<img src="<div style="display:flex;">
-<img src=""C:\Users\Reddy's\OneDrive\Desktop\ad\Screenshot image 1.jpg"" width="200">
-<img src="Screenshot image 2.jpg" width="200">
-<img src="Screenshot image 3.jpg" width="200">
-</div>
-<br>
-<div style="display:flex;">
-<img src="ScreenShots/img06.jpeg" width="200">
-<img src="ScreenShots/img07.jpeg" width="200">
-<img src="ScreenShots/img08.jpeg" width="200">
-<img src="ScreenShots/img09.jpeg" width="200">
-</div>
+
 
 ### Prerequisites
 *   Android Studio 
